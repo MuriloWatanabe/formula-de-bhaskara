@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    margin-top: 180px;
+}
+body{
+    background-color: beige;
+    border-top: 30px;
+}
+main {
+display: flex;
+border-radius: 30px;
+border: 50px;
+background-color: blueviolet;
+padding: 30px;
+align-content: center;
+margin: 150px;
+margin-left: 500px;
+margin-right: 500px;
+text-align: center;
+
+}
+div{
+    padding-block-end: 0%;
+    margin: auto;
+}
+
